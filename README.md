@@ -2,7 +2,7 @@
 
 I'm a frontend web developer specalized in _react_ and _typescript_.
 
-Check out my website at [bastipnt.de](https://bastipnt.de)
+Check out my website at [bastipnt.de](https://www.bastipnt.de/)
 
 I'm also into _generative music_ and _creative coding_ :)
 
